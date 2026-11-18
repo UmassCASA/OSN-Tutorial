@@ -1,0 +1,12 @@
+name: osn-tutorial
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - ipykernel
+  - s3fs
+  - xarray
+  - h5netcdf
+  - h5py
+  - numpy
